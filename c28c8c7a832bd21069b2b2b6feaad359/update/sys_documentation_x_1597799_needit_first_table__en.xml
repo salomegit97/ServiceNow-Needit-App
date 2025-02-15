@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="First Table" language="en" table="x_1597799_needit_first_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>First Table</label>
+            <language>en</language>
+            <name>x_1597799_needit_first_table</name>
+            <plural>First Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-15 16:01:29</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First Table</sys_name>
+            <sys_package display_value="NeedIt" source="x_1597799_needit">c28c8c7a832bd21069b2b2b6feaad359</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">c28c8c7a832bd21069b2b2b6feaad359</sys_scope>
+            <sys_update_name>sys_documentation_x_1597799_needit_first_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-15 16:01:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
